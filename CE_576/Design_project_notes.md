@@ -29,7 +29,7 @@
 ### Information Provided
 * Data on Kaw River Treatment plant estimated WW flows and composition
 * Data on Farmland water volumes and compositions
-* Biowin model of something else...
+* Biowin model of the Kaw River WWTTP secondary treatment process developed by Roopa Matole in 2013
 
 ## Project Deliverables
 1. Written report
@@ -37,9 +37,33 @@
 3. 8-10 minute presentation
 
 ## Notes on Farmland Industries
+### Background Re: City of Lawrence
 * Former fertilizer plant and active RCRA site
 * The City of Lawrence inherited a Remedial Action Plan with the Kansas Department of Health & Environment when it purchased the site
 * Primary pollutants: ammonia and nitrate (severe groundwater contamination)
 * Safe limit for nitrate in drinking water is 10mg/L
 * Containment ponds not evaporating at the same rate as they're being filled
+* At one point the city had to dump a bunch of nitrogen water to the Kansas River; WaterOne got angry
+* This site has an active NPDES permit
+* The City of Lawrence has five NPDES permits in total
+### What Happened Next?
+* The City submitted an RFP (request for proposals) for plans to revise the existing Remedial Action Plan
+    * This was needed because the hydraulic containment plan was found to be inadequate
+* The City is no longer actively pumping groundwater from this site
+    * An encircling ring of wells are being monitored for nitrate concentrations; if they start to increase again, pumping of the water table will need to resume
+* The City would like to encapsulate all of its current NPDES permits into an integrated plan to increase flexibility
+
+## Questions to Answer
+* If the water were to be directly piped from the site to the Wakarusa Treatment Plant, would it be able to handle the N load from the water
+    * It CAN handle the volume of water itself
+* This water has a high concentration to TDS (total dissolved solids) that could prove corrosive to any pipe material
+* Transport of water will be assumed to be simple
+    * No considerations for piping material/cost
+    * Water composition remains the same
+
+## DENITRIFICATION
+```
+NO3 + OrganicCarbon -> N2(g)
+```
+
 
