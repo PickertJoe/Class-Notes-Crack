@@ -27,3 +27,7 @@
     * Compression stress remains elastic
     * Tensile stress in reinforcing propertional to distance from neutral axis
     * Balanced deisgn occurs when both masonry and steel are at maximum allowable stress
+
+## Two Primary Scenarios in Masonry Design
+1. Design: loads are known, not all geometry is constrained
+2. Analysis: loads are unknown, all geometry is constrained 
