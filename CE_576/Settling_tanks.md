@@ -29,3 +29,26 @@
     * If vs > vo, the particle will fall to the settling zone
     * If vs < vo, the particle will remmain in the water as it flows over the weir
 * Because vs depends primarily on particle size, we assume 100% removal for particles over a certain diameter and 0% removal for smaller particles
+
+### Density Based Separation for Grit Removal
+* Short settling time
+* Compact settling chambers
+* Avoids particle resuspension
+
+### Aerated Grit Chambers
+* Operate by "turning" grit particles via circulation so that they colide with walls
+* This in turn kills their momentum, promotes settling
+* Design parameters:
+    * Detention time
+    * Unit size (L*W*H)
+    * Flow velocity
+    * Air supply rate
+
+### Vortexting Grit Chambers
+* Similar to aerated chambers but with even shorter dention times
+    * 10-30 seconds
+* Design parameters include:
+    * Detention time
+    * Power input
+    * Chamber size
+* Are vertically oriented while aerated chambers are horizontal
