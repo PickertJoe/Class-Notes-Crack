@@ -64,3 +64,14 @@
 3. Shear seldom controls out-of-plane wall design.
 4. Keep beam stirrup configuration as simple as possible.
 
+## Development Length, Lap Lengths, and Flexural Bond
+1. Tension development length = 0.0002 Db Fs or 12-in minimum and 40 bar diameters minimum, which is 40 bar diameters for grade 40 steel and 48 bar diameters for grade 60 steel
+2. Compression development length = same as tension development length per TMS 6.1.5.1
+
+## Compressive Beam Reinforcement
+1. Seldom used because masonry beam sections are usually large and deep; inefficient as a lot of steel is added for marginal improvements in strength. Better solutions include increasing depth, using stronger units, or using other materials
+2. Previous TMS editions have indicated that reinforcement may not be used unless the member is confined. Geometric configurations to confine the steel reinforcement is often difficult.
+3. Beam compressive steel used to resist flexure is designated as As', the allowable stress as Fs', and the actual stress as fs'. The adjacent masonry in compression due to flexure has a stress of f s'. The compressive reinforcement replaces the compressive masonry, but the loss of masonry area is usually negligible. The location of the compressive reinforcement is d'. A revised equation for the netural axis, kd, can be derived accounting for the compressive reinforcement.
+4. DUring long term creep and shrinkage scenarios, the compression steel takes on more force than the adjacent masonry.
+5. Masonry codes use the same approach to compression steel design as concrete working stress design.
+6. Use compression steel when structural depth is limited by architectural requirements or where tension steel alone gives unreasonable reinforcement amount and material or geometry changes are not available solutions.
