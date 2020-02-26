@@ -23,3 +23,22 @@
 ## Denitrification
 * Requires anoxic (or approximate) conditions
 
+## Preanoxic vs Postanoxic
+### Preanoix
+* Allows used of influent COD/BOD as carbon source for denitrification
+* Nitrified ammonia is not removed in single pass
+    * Better removal with internal recycle
+* More complicated process to balance
+
+### Postanoxic
+* Aerobic stage comes first, so NH4+ is already oxidized
+* No internal recycle required, but available carbon is depleted
+* Must supply supplemental carbon source
+    * Adds chemical costs and logistics to process
+    * Methanol or waste glyverin are some of the cheapest solutions
+
+## Oxidation Ditches
+* Essentially combines primary and secondary treatment
+* In typical operation, aerators are designed to keep system slightly aerobic
+* Post-anoxic N removal can be applied in odication ditches by adjusting aeration to allow anoxic zones
+* This requires larger volumes and longer sludge residence times than just BOD removal
