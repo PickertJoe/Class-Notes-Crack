@@ -25,6 +25,7 @@
 * If prism tests are used to determine f'm, it must be the lesser of:
     1. The average tested strength
     2. 1.25x the lowest strength multiplied by a correction factor
+* Prism testing CAN be substituted for unit/grout testing
 
 ## Unit Sampling to Determine f'm
 * Use block/compressive strength + mortar type to select assumed f'm from TMS 402 Tables 1 & 2
@@ -44,3 +45,44 @@
     * Wind, seismic, or lateral loads
     * Negative moments, fixity
     * Accidental eccentricity (variations in construction)
+
+## Reinforced Masonry Bearing Walls
+* Walls are the basic masonry unit as opposed to beams & columns (as in concrete)
+* Early codes set max height/thickness(h/t) ratio to require proportionality of walls
+* Old code h/t standards:
+    * h/t < 25 for load-bearing walls
+    * h/t < 48 for non load-bearing / reinforced walls
+* 1985 UBC allowed h/t > 30 if using strength design. Must consider:
+    1. Influence of axial load
+    2. Variable moment of inertia (due to cracking)
+    3. Fixed and pinned end conditions
+    4. Influence of deflection
+    5. Duration of loads
+* Any wall design requires:
+    1. Compression check
+    2. Flexural bending compression check
+    3. Reinforcing design for tension stress
+* TMS 402 retains empirical limits:
+    1. Bearing walls (t = 6in nominal minimum)
+    2. h/t for TMS 402 Table A.5.1
+* 1994 and 1997 UBC introduced new allowable axial stresses based on slenderness function using the radius of gyration (instead of thickness)
+    * This approach is mirrored in TMS 402
+    * Based on actual testing
+    * Members with h/t <= 99 fail in Euler bucking
+    * H/t >= 99 were used to determine buckling load
+
+## Combined Stresses
+1. Axial:
+    * Self-weight
+    * Roof/floor loads
+    * Parapet vertical loads
+2. Bending:
+    * Wind
+    * Seismic
+    * Pressures
+    * Eccentric roof and floor loads
+    * Earth pressure and surcharges
+3. Compressive Bending:
+    * Additive to compressive axial forces
+    * fb = P/A + M/S
+    * Fa = Pa/An
